@@ -1,0 +1,5 @@
+  * [How to use pywrfplot](HowToUse.md)
+  * [Plotting maps](Maps.md)
+  * [Making skewT-plots](SkewTPlots.md)
+  * [Making xz- or tz-plots](XzAndTzPlots.md)
+  * [Installation tips](InstallationTips.md)
